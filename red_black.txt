@@ -1,0 +1,6 @@
+red black trees are "balanced binary search trees."
+2>every node is coloured red or black.
+3>root is coloured........>root property
+4>children of red node is black.....>red property
+5>all nodes have same black depth..>depth property
+6>
